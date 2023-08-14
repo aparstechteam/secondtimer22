@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o as r,e as s,h as t}from"./index.c74e3676.js";const o={},c=t("iframe",{src:"https://forms.gle/XNpSkJwTKJ7FtRAf7",class:"w-screen h-screen",frameborder:"0"},null,-1),a=[c];function n(_,f){return r(),s("div",null,a)}var m=e(o,[["render",n]]);export{m as default};
